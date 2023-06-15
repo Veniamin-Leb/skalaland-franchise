@@ -124,7 +124,7 @@ html {
 
 body {
   font-family: "Century Gothic";
-  overflow-x: none;
+  overflow-x: hidden;
 }
 
 .section {
